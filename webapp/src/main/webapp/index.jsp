@@ -1,2 +1,2 @@
-<h1>  Hi Arpitha ,Welcome to Valaxy Technologies  !!! </h1>
+<h1>  Hi krish ,Welcome to Arpitha Technologies  !!! </h1>
 
